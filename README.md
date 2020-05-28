@@ -1,5 +1,10 @@
 # RestAssured
-Java/testNG/restAssured/lombok/allure/performance/
+            Java
+            testNG
+            restAssured
+            lombok
+            allure
+            performance withrestAssured
 
 * Add request/response body to Allure report  
 
